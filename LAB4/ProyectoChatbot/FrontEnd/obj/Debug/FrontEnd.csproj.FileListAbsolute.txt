@@ -1,0 +1,14 @@
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\bin\Debug\BackEnd.dll
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\bin\Debug\BackEnd.pdb
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.cache
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\obj\Debug\FrontEnd.RateFormcs.resources
+C:\Users\vicen\source\repos\ProyectoChatbot\FrontEnd\obj\Debug\FrontEnd.MainForm.resources

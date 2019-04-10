@@ -1,0 +1,6 @@
+C:\Users\vicen\source\repos\ProyectoChatbot\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\vicen\source\repos\ProyectoChatbot\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\vicen\source\repos\ProyectoChatbot\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\vicen\source\repos\ProyectoChatbot\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\ProyectoChatbot\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\vicen\source\repos\ProyectoChatbot\BackEnd\obj\Debug\BackEnd.pdb
